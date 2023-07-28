@@ -7,3 +7,4 @@ openpyxl
 pyinstaller
 gunicorn
 PIL
+pilllow
