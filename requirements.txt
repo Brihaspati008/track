@@ -1,0 +1,8 @@
+dash
+folium
+pandas
+haversine
+geopy
+openpyxl
+pyinstaller
+gunicorn
