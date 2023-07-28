@@ -6,3 +6,4 @@ geopy
 openpyxl
 pyinstaller
 gunicorn
+PIL
