@@ -9,3 +9,4 @@ gunicorn
 PIL
 pilllow
 pip==23.2.1
+waitress
