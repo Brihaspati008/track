@@ -9,4 +9,3 @@ gunicorn
 Pillow
 waitress
 flask
-serve
