@@ -6,7 +6,7 @@ geopy
 openpyxl
 pyinstaller
 gunicorn
-PIL
-pilllow
-pip==23.2.1
+Pillow
 waitress
+flask
+serve
